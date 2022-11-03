@@ -1,0 +1,11 @@
+Smallest side dimension(in)
+^
+| 
+| Largest side dimension(in)
+| ^
+| |
+| | Length of board(ft unless otherwise specified)
+| | ^
+| | |
+XxXxX
+
