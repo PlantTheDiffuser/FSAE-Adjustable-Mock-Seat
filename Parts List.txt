@@ -1,0 +1,13 @@
+Frame:
+2x 2x4x2
+2x 2x4x5
+
+Seat:
+1x 1x12x3
+1x 1x12x20in
+4x Hinges
+	Seat Support:
+	4x 2x4x1in
+	2x 2x2x3
+	4x 1/2''-5 bolt+nut
+	1x 2x3x2
